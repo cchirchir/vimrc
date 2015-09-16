@@ -7,6 +7,7 @@ call pathogen#helptags()
 
 " Colorscheme
 colorscheme seti
+" best color scheme ever!!
 
 syntax enable                    " enable syntax processing
 
