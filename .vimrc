@@ -28,6 +28,7 @@ set showmode                    "Show current mode down the bottom
 set showcmd                     "Show unfinished commands
 set hidden                      "Set hidden, put the current buffer to the background.
 set lazyredraw                  "good for performance
+set autochdir                   "Automatically change directories for every file open in VIM.. very useful setting!!!
 
 " Set to auto read when a file is changed from the outside
 set autoread                    "Reload files changed outside vim
