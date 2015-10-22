@@ -149,3 +149,5 @@ let g:user_emmet_install_global = 0
 autocmd FileType html,css EmmetInstall
 
 iabbr email charlieckips@gmail.com
+
+" https://www.cs.oberlin.edu/~kuperman/help/vim/home.html --- just some links i need for later ;-) 
